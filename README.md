@@ -1,1 +1,1 @@
-This folder holds the source code for buss://register.it
+This folder holds the source code for bayt://register.it
